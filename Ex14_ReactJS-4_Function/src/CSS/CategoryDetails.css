@@ -1,0 +1,22 @@
+.CategoryDetails{
+    padding-top: 50px ;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.contains{
+    padding: 20px;
+    background-color: #f9f9f9;
+
+}
+
+.contains-button{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding-left: 400px;
+    padding-right: 400px;
+}

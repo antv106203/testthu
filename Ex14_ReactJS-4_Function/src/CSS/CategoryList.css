@@ -1,0 +1,32 @@
+.CategoryList{
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+
+}
+
+.CategoryList-NoLoading{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.CategoryList-NoLoading button{
+    width: 100px;
+    height: 40px;
+}
+
+.createcategory-input{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.CategoryList-NoLoading-btn{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+
